@@ -1,0 +1,4 @@
+v1
+{"path":"file:///Users/nakumar/IdeaProjects/test/Spark/src/datafiles/cards3.csv","timestamp":1707043868000,"batchId":2}
+{"path":"file:///Users/nakumar/IdeaProjects/test/Spark/src/datafiles/cards4.csv","timestamp":1707043874000,"batchId":2}
+{"path":"file:///Users/nakumar/IdeaProjects/test/Spark/src/datafiles/cards5.csv","timestamp":1707043880000,"batchId":2}
